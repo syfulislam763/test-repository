@@ -8,6 +8,6 @@ class Person{
     }
 }
 
-let tamim = Person.personInstance('tamim', 45)
-let mustafiz = Person.personInstance('mustafiz', 78)
-console.log(tamim.id)
+let musfiq = Person.personInstance('musfiq', 45)
+let taskin = Person.personInstance('taskin', 78)
+console.log(musfiq.id)
