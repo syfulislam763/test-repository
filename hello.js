@@ -9,4 +9,5 @@ class Person{
 }
 
 let tamim = Person.personInstance('tamim', 45)
-alert(tamim.name)
+let mustafiz = Person.personInstance('mustafiz', 78)
+console.log(tamim.id)
